@@ -40,7 +40,7 @@ Este proyecto es una aplicación de JavaScript que demuestra el uso de promesas,
 ## 📊 Estructura del proyecto
 
 ```
-álbum-titles-fetcher/
+DesafioPromesas/
 │
 └── script.js
 ```
